@@ -1,0 +1,15 @@
+/Users/lexiuswaltar/Documents/Projects/Hello-World-Csharp/bin/Debug/net5.0/Hello-World-Csharp.deps.json
+/Users/lexiuswaltar/Documents/Projects/Hello-World-Csharp/bin/Debug/net5.0/Hello-World-Csharp.runtimeconfig.json
+/Users/lexiuswaltar/Documents/Projects/Hello-World-Csharp/bin/Debug/net5.0/Hello-World-Csharp.runtimeconfig.dev.json
+/Users/lexiuswaltar/Documents/Projects/Hello-World-Csharp/bin/Debug/net5.0/Hello-World-Csharp.dll
+/Users/lexiuswaltar/Documents/Projects/Hello-World-Csharp/bin/Debug/net5.0/ref/Hello-World-Csharp.dll
+/Users/lexiuswaltar/Documents/Projects/Hello-World-Csharp/bin/Debug/net5.0/Hello-World-Csharp.pdb
+/Users/lexiuswaltar/Documents/Projects/Hello-World-Csharp/obj/Debug/net5.0/Hello-World-Csharp.csprojAssemblyReference.cache
+/Users/lexiuswaltar/Documents/Projects/Hello-World-Csharp/obj/Debug/net5.0/Hello-World-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lexiuswaltar/Documents/Projects/Hello-World-Csharp/obj/Debug/net5.0/Hello-World-Csharp.AssemblyInfoInputs.cache
+/Users/lexiuswaltar/Documents/Projects/Hello-World-Csharp/obj/Debug/net5.0/Hello-World-Csharp.AssemblyInfo.cs
+/Users/lexiuswaltar/Documents/Projects/Hello-World-Csharp/obj/Debug/net5.0/Hello-World-Csharp.csproj.CoreCompileInputs.cache
+/Users/lexiuswaltar/Documents/Projects/Hello-World-Csharp/obj/Debug/net5.0/Hello-World-Csharp.dll
+/Users/lexiuswaltar/Documents/Projects/Hello-World-Csharp/obj/Debug/net5.0/ref/Hello-World-Csharp.dll
+/Users/lexiuswaltar/Documents/Projects/Hello-World-Csharp/obj/Debug/net5.0/Hello-World-Csharp.pdb
+/Users/lexiuswaltar/Documents/Projects/Hello-World-Csharp/obj/Debug/net5.0/Hello-World-Csharp.genruntimeconfig.cache
