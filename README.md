@@ -12,4 +12,4 @@ https://docs.microsoft.com/en-us/dotnet/core/tutorials/
 
 Sidenote: I downloaded the sdk to my applications folder in my mac. I quickly found that i was unable to access the dotnet commands in any other folder outside of my root folder. I was able to run this command to give dotnet access to all local folders.
 
-```ln -s /usr/local/share/dotnet/dotnet /usr/local/bin/
+```ln -s /usr/local/share/dotnet/dotnet /usr/local/bin/```
